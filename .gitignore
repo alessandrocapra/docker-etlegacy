@@ -1,1 +1,13 @@
 .DS_Store
+
+# Ignore binary map files and DB files
+*.pk3
+*.db
+*.gm
+*.way
+*.zip
+*.swp
+data/etmain/legacy/
+data/etmain/nitmod/
+data/omni-bot/
+
